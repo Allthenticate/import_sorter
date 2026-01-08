@@ -16,3 +16,4 @@
   id: flutter-import-sorter
   name: Flutter Import Sorter
   entry: flutter pub run import_sorter
+  language: system
